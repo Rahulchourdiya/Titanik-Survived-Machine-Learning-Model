@@ -1,1 +1,0 @@
-# Titanik-Survived-Machine-Learning-Model
